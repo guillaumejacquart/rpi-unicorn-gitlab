@@ -1,4 +1,4 @@
-#Gitlab RPI notifier
+# Gitlab RPI notifier
 
 
 A small project that transforms your Raspberry PI zero + Unicorn pHAT into  build status monitor
