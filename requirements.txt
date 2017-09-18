@@ -1,0 +1,4 @@
+APScheduler==3.3.1
+Flask==0.12
+python-gitlab==1.0.0
+tinydb==3.5.0
